@@ -1,0 +1,21 @@
+[
+  {
+    "property_id": "500140ha",
+    "title": "Seaside Luxury Villa with Ocean View",
+    "location": "Bali, Indonesia",
+    "check_in": "2022-11-20",
+    "check_out": "2022-11-25",
+    "price": 240,
+    "description": "Elegant villa with private pool and oceanfront access.",
+    "amenities": ["WiFi", "Private Pool", "Air Conditioning", "Kitchen"],
+    "reviews": [
+      { "author": "John D.", "rating": 5, "comment": "Amazing stay!" },
+      { "author": "Lisa K.", "rating": 4, "comment": "Beautiful view and clean." }
+    ],
+    "gallery": ["https://vrbo.com/image1.jpg", "https://vrbo.com/image2.jpg"],
+    "availability": "Available",
+    "landmarks": ["Beachfront", "Restaurant 0.3km"],
+    "policies": "Free cancellation up to 7 days before check-in",
+    "url": "https://www.vrbo.com/ha/id/500140ha"
+  }
+]
