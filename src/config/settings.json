@@ -1,0 +1,15 @@
+{
+  "mock": true,
+  "http": {
+    "timeout_seconds": 20,
+    "retries": 2,
+    "rate_limit_per_sec": 2
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "data/logs/scraper.log"
+  },
+  "headers": {
+    "User-Agent": "Mozilla/5.0 (compatible; VRBO-Extractor/4.0; +https://bitbash.dev)"
+  }
+}
